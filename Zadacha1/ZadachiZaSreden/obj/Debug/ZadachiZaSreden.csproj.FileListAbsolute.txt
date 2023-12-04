@@ -1,0 +1,7 @@
+C:\Users\my pc\source\repos\Zadacha1\ZadachiZaSreden\bin\Debug\ZadachiZaSreden.exe.config
+C:\Users\my pc\source\repos\Zadacha1\ZadachiZaSreden\bin\Debug\ZadachiZaSreden.exe
+C:\Users\my pc\source\repos\Zadacha1\ZadachiZaSreden\bin\Debug\ZadachiZaSreden.pdb
+C:\Users\my pc\source\repos\Zadacha1\ZadachiZaSreden\obj\Debug\ZadachiZaSreden.csproj.AssemblyReference.cache
+C:\Users\my pc\source\repos\Zadacha1\ZadachiZaSreden\obj\Debug\ZadachiZaSreden.csproj.CoreCompileInputs.cache
+C:\Users\my pc\source\repos\Zadacha1\ZadachiZaSreden\obj\Debug\ZadachiZaSreden.exe
+C:\Users\my pc\source\repos\Zadacha1\ZadachiZaSreden\obj\Debug\ZadachiZaSreden.pdb
